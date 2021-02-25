@@ -24,27 +24,27 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="http://juanesgroup.mit.edu/ajacquey" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color:white" alt="homepage" height="20" width="20" />
 </a>
 
 <a href="https://www.linkedin.com/in/antoine-jacquey/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
 </a>
 
 <a href="https://scholar.google.com/citations?user=VUgCBykAAAAJ&hl=en" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="@arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" height="20" width="20" />
 </a>
 
 <a href="https://www.researchgate.net/profile/Antoine_Jacquey" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="research gate" height="20" width="20" />
 </a>
 
 <a href="https://publons.com/researcher/3732072/antoine-b-jacquey" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg" alt="publons" height="20" width="20" />
 </a>
 
 <a href="https://twitter.com/antoine_jacquey" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" />
 </a>
-
+https://simple-icons.github.io/simple-icons-website/icons/orcid.svg
 </p>
