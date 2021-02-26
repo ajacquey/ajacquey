@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="http://juanesgroup.mit.edu/ajacquey" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color:white" alt="homepage" height="20" width="20" />
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="homepage" height="20" width="20" />
 </a>
 
-<a href="https://www.linkedin.com/in/antoine-jacquey/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
+<a href="https://orcid.org/0000-0002-6259-4305" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="orcid" height="20" width="20" />
 </a>
 
 <a href="https://scholar.google.com/citations?user=VUgCBykAAAAJ&hl=en" target="blank">
@@ -43,8 +43,14 @@ Here are some ideas to get you started:
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg" alt="publons" height="20" width="20" />
 </a>
 
+<a href="https://www.linkedin.com/in/antoine-jacquey/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
+</a>
+
 <a href="https://twitter.com/antoine_jacquey" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" />
 </a>
-https://simple-icons.github.io/simple-icons-website/icons/orcid.svg
+
+
+
 </p>
