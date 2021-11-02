@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a align="center" href="http://juanesgroup.mit.edu/ajacquey">
+<a align="center" href="https://ajacquey.github.io/">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ajacquey&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajacquey&layout=compact&theme=gotham" alt="languages" height="165">
     </p>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="http://juanesgroup.mit.edu/ajacquey" target="blank">
+<a href="https://ajacquey.github.io/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="homepage" height="20" width="20" />
 </a>
 
