@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a align="center" href="https://ajacquey.github.io/">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajacquey&count_private=true&show_icons=true&theme=transparent" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajacquey&layout=compact&theme=transparent" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajacquey&count_private=true&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajacquey&layout=compact&theme=dark" alt="languages" height="165">
     </p>
 </a>
 
